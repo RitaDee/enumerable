@@ -31,6 +31,6 @@ include_five = list.any? { |e| e == 5 }
 all_evens = list.filter(&:even?)
 # => [2, 4]
 
-sort_list = list.sort()
+sort_list = list.sort
 
 puts less_than_five, greater_than_five, all_evens, include_two, include_five, sort_list, list.max, list.min

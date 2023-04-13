@@ -29,7 +29,7 @@ module MyEnumerable
 
   def sort(&block)
     sorted_list = block_given? ? @list.sort(&block) : @list.sort
-    puts sorted_list.join(", ")
+    puts sorted_list.join(', ')
     MyList.new(*sorted_list)
   end
 end
