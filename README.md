@@ -27,7 +27,7 @@ After you're finished please remove all the comments and instructions!
 
 <div align="center">
 
-  <h3><b>Microverse README Template</b></h3>
+  <h3><b>Creating Enumerable</b></h3>
 
 </div>
 
@@ -122,12 +122,12 @@ Install this project with:
 ### Usage
 To run the project, execute the following command:
 
-- ruby test_list.rb
+- `Ruby list.rb`
 
 ### Run tests
 
 To run tests, run the following command:
-- Run robocop . 
+- Run `rubocop` . 
 
 <!--
 Example command:
@@ -223,6 +223,6 @@ I would like to appreciate [Microverse](https://www.microverse.org/) for providi
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](MIT.md) licensed.
+This project is [MIT](LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
