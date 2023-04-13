@@ -111,14 +111,13 @@ Example command:
 
 ### Setup
 
-- Clone this repository to your desired folder: https://donmark2k.github.io/enumerable/.git
+- Clone this repository to your desired folder: https://github.com/RitaDee/enumerable.git
 - Run bundle install to install the dependencies.
 
 ### Install
 Install this project with:
 
 -  cd enumerable
--  ubuntu version 22 or higher
 
 ### Usage
 To run the project, execute the following command:
@@ -160,18 +159,17 @@ Example:
 
 ## 👥 Authors <a name="authors"></a>
 
+ 👤**Rita Nkem Daniel**
 
- 👤**Chukwuemeka Ochuba**
+- GitHub: [@RitaDee](https://github.com/RitaDee)
+- Twitter: [@durdana_dee](https://twitter.com/durdana_dee)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/rita-daniel/)
 
-- GitHub: [@Donmark2k](https://github.com/Donmark2k)
-- Twitter: [@Donmark2k](https://twitter.com/donmark2k)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/chukwuemeka-ochuba/)
+👤 **Adarsh Pathak**
 
-👤 **mrprotocoll**
-
-- GitHub: [@mrprotocoll](https://github.com/mrprotocoll)
-- Twitter: [@dprotocoll](https://twitter.com/dprotocoll)
-- LinkedIn: [@mrprotocoll](https://www.linkedin.com/in/mrprotocoll)
+- GitHub: [@PowerLevel9000](https://github.com/PowerLevel9000/)
+- Twitter: [@PowerLevel9002](https://twitter.com/PowerLevel9002/)
+- LinkedIn: [@Adarsh Pathak](https://linkedin.com/in/powerlevel/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -197,7 +195,6 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-[Victor Chiemerie](https://github.com/Victor-chiemerie) has been of tremendous help so far.
 - Give a ⭐️ if you like this project!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
